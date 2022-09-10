@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, I'm Anastasiia</a> 
-<h3 align="center">I am a student of &#128506Tyumen State University&#128506</h3>
+<h3 align="center">Student of Tyumen State University</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
