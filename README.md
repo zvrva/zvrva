@@ -4,8 +4,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Profile Card:</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical)
 
 <h3 align="left">Top Languages:</h3>
 
@@ -25,12 +29,6 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical)
 
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvrva&theme=radical)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zvrva&theme=radical)
 
