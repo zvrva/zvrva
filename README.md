@@ -7,11 +7,17 @@
   
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zvrva&theme=radical)](https://git.io/streak-stats)
+<h3 align="left">Top Languages:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvrva&layout=compact&theme=radical)](https://github.com/zvrva/github-readme-stats)
 
+<h3 align="left">GitHub Stats:</h3>
+
 [![Zvrva's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvrva&theme=radical)](https://github.com/zvrva/github-readme-stats)
+
+<h3 align="left">Activity Graph:</h3>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zvrva)](https://github.com/zvrva/github-readme-activity-graph)
 
 <h3 align="left">Contact me: zvrv.a@mail.ru</h3>
 
