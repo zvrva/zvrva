@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, I'm Anastasiia</a> 
-<h3 align="center">Student of Tyumen State University</h3>
+<h3 align="center">&#128174Student of Tyumen State University&#128174</h3>
 
 💬 Contact me: **zvrv.a@mail.ru**
 
