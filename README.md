@@ -15,11 +15,22 @@
 
 [![Zvrva's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvrva&theme=radical)](https://github.com/zvrva/github-readme-stats)
 
-<h3 align="left">Activity Graph:</h3>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zvrva)](https://github.com/zvrva/github-readme-activity-graph)
 
 <h3 align="left">Contact me: zvrv.a@mail.ru</h3>
 
 <h3>Анекдот:</h3>
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical)
+
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvrva&theme=radical)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zvrva&theme=radical)
+
