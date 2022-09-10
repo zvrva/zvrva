@@ -2,6 +2,10 @@
 <h3 align="center">Student of Tyumen State University</h3>
 
 
+💬 Contact me: **zvrv.a@mail.ru**
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 
@@ -18,10 +22,6 @@
 <h3 align="left">GitHub Stats:</h3>
 
 [![Zvrva's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvrva&theme=radical)](https://github.com/zvrva/github-readme-stats)
-
-
-
-<h3 align="left">Contact me: zvrv.a@mail.ru</h3>
 
 <h3>Анекдот:</h3>
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
