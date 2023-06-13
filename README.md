@@ -20,7 +20,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical)
 
-[![Zvrva's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvrva&theme=radical)](https://github.com/zvrva/github-readme-stats)
+<h3 align="left">Top Languages:</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvrva&theme=radical)
 
 
 
