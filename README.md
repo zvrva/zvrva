@@ -51,13 +51,6 @@
          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" width="130" height="40"/> 
   </p>
 
-<h3 align="left">Profile Card:</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical)
-
 <h3 align="left">Top Languages:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvrva&theme=radical)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvrva&theme=default)
