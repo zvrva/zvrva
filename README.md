@@ -1,58 +1,96 @@
-<h1 align="left">Hello everyone, I'm Anastasia</a> 
-<h3 align="left">Student of Tyumen State University</h3>
+<div align="center">
 
-💬 Contact me: **zvrv.a@mail.ru**
+<img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50"><img src="https://media1.tenor.com/m/C8yXV1t99OAAAAAd/hellokitty-kittynikki.gif" width="50">
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="40"/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="120" height="40"/>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="40"/>       
+# 🌸 Hi there, I'm Anastasia 🌸
+
+### 💗 MLE & Data Science Student
+
+### 💗 CV & NLP & Classic ML
+
+---
+
+# 🌸 Tech Stack 🌸
+
+### 💗 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-FF69B4?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
-<h3 align="left">DB:</h3>
-<p align="left"> 
-         <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" alt="mongodb" width="130" height="40"/> 
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="130" height="40"/> 
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" width="140" height="40"/> 
-        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" width="100" height="40"/>    
+### 💗 Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/ClickHouse-FF69B4?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-
-<h3 align="left">Frameworks:</h3>
-<p align="left"> 
-        <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="qt" width="75" height="40"/> 
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" width="120" height="40"/> 
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="django" width="120" height="40"/> 
-        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" width="100" height="40"/> 
-
+### 💗 Data Science & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Plotly-FF69B4?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF69B4?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SciPy-FF69B4?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Jupyter-FF69B4?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-<h3 align="left">ML:</h3>
-<p align="left"> 
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" width="120" height="40"/> 
-        <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="colab" width="120" height="40"/> 
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikitlearn" width="160" height="40"/> 
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="120" height="40"/> 
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" width="110" height="40"/> 
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="120" height="40"/> 
-
-
+### 💗 ML Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-FF69B4?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
-        
-<h3 align="left">OS:</h3>
-<p align="left"> 
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" width="120" height="40"/> 
-        <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" width="90" height="40"/> 
+### 💗 Computer Vision & NLP
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-FF69B4?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
+### 💗 BE & FE
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/sqlalchemy-FF69B4?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/html5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/css-FF69B4?style=for-the-badge&logo=css&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Qt-FF69B4?style=for-the-badge&logo=Qt&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/pydantic-FF69B4?style=for-the-badge&logo=pydantic&logoColor=white" alt="YOLO" />
+</p>
 
-<h3 align="left">Other:</h3>
-<p align="left"> 
-         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" width="130" height="40"/> 
-  </p>
+### 💗 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VirtualBox-FF69B4?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</p>
 
-<h3 align="left">Top Languages:</h3>
+### 💗 Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-FF69B4?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-FF69B4?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvrva&theme=default) 
+---
+
+# 💌 Connect With Me 💌
+
+<p align="center">
+  <a href="mailto:yourolllikethunder@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/zvrv_a">
+    <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical" width="90%" />
+
+</div>
