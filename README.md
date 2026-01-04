@@ -78,19 +78,6 @@
 
 ---
 
-# 💌 Connect With Me 💌
-
-<p align="center">
-  <a href="mailto:yourolllikethunder@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/zvrv_a">
-    <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvrva&theme=radical" width="90%" />
 
 </div>
