@@ -6,7 +6,7 @@
 
 ### 💗 MLE & Data Science Student
 
-### 💗 CV & NLP & Classic ML
+### 💗 ML/DL & CV & NLP 
 
 ---
 
@@ -39,8 +39,6 @@
 ### 💗 ML Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-FF69B4?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
